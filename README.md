@@ -1,1 +1,1 @@
-# Aerodynamic-and-thermal-analysis-of-platoon-of-vehicles
+# Aerodynamic-and-thermal-analysis-on-platoon-of-heavy duty vehicles
